@@ -8,5 +8,3 @@ nginx:stable-perl
 python:3.9.19-slim
 redis
 
-numpy:1.21.0
-
